@@ -1,5 +1,5 @@
-# vue3-cli
-
+# virtualList
+# 虚拟滚动
 ## Project setup
 ```
 yarn install
@@ -20,5 +20,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
